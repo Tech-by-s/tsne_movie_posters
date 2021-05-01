@@ -1,6 +1,5 @@
 keras==2.4.3
 numpy==1.19.3
-Opencv==4.4.0
 matplotlib==3.3.2
 tensorflow==2.4.0
 tarfile==0.9.0
